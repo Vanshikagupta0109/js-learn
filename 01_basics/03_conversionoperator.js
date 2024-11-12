@@ -23,3 +23,8 @@ console.log(booleanisloggedin);
 let somenumber=33
 let stringnumber= String(somenumber)
 console.log(stringnumber);
+
+let value = 3;
+let negvalue= -value;
+console.log(negvalue);
+
