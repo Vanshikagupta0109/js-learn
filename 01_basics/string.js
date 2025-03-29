@@ -1,7 +1,8 @@
 const name = "vanshii"
 const repocount = 50
 
-//console.log(name+repocount+"value");
+//console.log(name+repocount+"value");// gives vanshii50 value
+//instead of this write this use this  -- below mentioned
 
 // string inporalation method 
 //backtext method
