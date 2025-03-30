@@ -8,7 +8,7 @@ const repocount = 50
 //backtext method
 console.log(`helooo my name is ${name} and my repo count is ${repocount} `);
 
-const gamename= new String('hoteshhh-hhh')
+const gamename= new String('hoteshhh-hhh');
 console.log(gamename[0]);
 //anotger way of prototype
 console.log(gamename._proto_);
@@ -25,7 +25,7 @@ const anotherstring= gamename.slice(-8,4)
 console.log(anotherstring);
 
 
-const newstring1= "  hitesh   "
+const newstring1= "  hitesh   "// remove spaces
 console.log(newstring1);
 console.log(newstring1.trim());
 
